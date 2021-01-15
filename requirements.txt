@@ -2,5 +2,5 @@ xhistogram
 nc-time-axis
 gcsfs
 zarr
-
+tdqm
 -e git+https://github.com/qzchenwl/qgrid.git#egg=qgrid
