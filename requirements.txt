@@ -1,3 +1,6 @@
 xhistogram
 nc-time-axis
+gcsfs
+zarr
+
 -e git+https://github.com/qzchenwl/qgrid.git#egg=qgrid
