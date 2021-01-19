@@ -3,4 +3,6 @@ nc-time-axis
 gcsfs
 zarr
 tdqm
+geopandas
+shapely
 -e git+https://github.com/qzchenwl/qgrid.git#egg=qgrid
